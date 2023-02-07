@@ -20,6 +20,9 @@ Kakao api key를 API_key.txt 파일에 넣으세요.
 ![image](https://user-images.githubusercontent.com/60418809/217215647-2ad64636-c213-41ba-9d14-38ae5d1d7d7d.png)
 
 
+## Download for Windows
+https://github.com/junobonnie/ChatKoGPT/releases/download/ChatGPT/ChatKoGPT.v1.0.zip
+
 해당 프로그램은 카카오 브레인에서 개발한 KoGPT를 이용하여 개발하였으며,</br></br>
 상업적 목적이 아닌 용도에서 KoGPT를 쉽게 이용할 수 있는 것에 초점을 두고 개발 하였습니다.
 
