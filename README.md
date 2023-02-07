@@ -1,9 +1,6 @@
 # ChatKoGPT
 ![profile](https://user-images.githubusercontent.com/60418809/217011831-67c3272f-8ebd-42b3-adc7-1839644f330b.png)
 
-## 필요한 것
-Kakao api key를 API_key.txt 파일에 넣으세요.
-
 ## 주요 기능
 ### 다음 문장 만들기
 ![image](https://user-images.githubusercontent.com/60418809/217211790-5eeecae5-2b62-4174-a15a-8243f01382d0.png)
@@ -20,6 +17,8 @@ Kakao api key를 API_key.txt 파일에 넣으세요.
 ### 채팅하기
 ![image](https://user-images.githubusercontent.com/60418809/217215647-2ad64636-c213-41ba-9d14-38ae5d1d7d7d.png)
 
+## 필요한 것
+Kakao api key를 API_key.txt 파일에 넣으세요.
 
 ## Download for Windows
 https://github.com/junobonnie/ChatKoGPT/releases/download/ChatGPT/ChatKoGPT.v1.0.zip
