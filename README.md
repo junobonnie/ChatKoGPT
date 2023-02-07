@@ -4,6 +4,7 @@
 ## 필요한 것
 Kakao api key를 API_key.txt 파일에 넣으세요.
 
+## 주요 기능
 ### 다음 문장 만들기
 ![image](https://user-images.githubusercontent.com/60418809/217211790-5eeecae5-2b62-4174-a15a-8243f01382d0.png)
 ### 문장 분류하기
